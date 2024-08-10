@@ -1,8 +1,4 @@
-# TypeScript Today I Learned (TIL)
+# 📓 TypeScript TIL
+>  Today I Learned
 
-## 개요
-
-TypeScript는 JavaScript에 타입을 추가하여 더 안정적이고 유지보수하기 쉬운 코드를 작성할 수 있게 해주는 언어입니다.
-이 문서에서는 TypeScript를 사용하면서 배운 내용을 정리합니다.
-
-가보자고 :punch:
+타입스크립트를 사용하면서 공부한 것, 배운 것, 생각한 것을 기록하고 있습니다.
